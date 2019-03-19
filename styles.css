@@ -1,0 +1,161 @@
+@import url('https://fonts.googleapis.com/css?family=PT+Serif');
+
+body{
+    font-family: 'PT Serif', serif;
+    font-size:30px;
+    text-align:center;
+    background-image:url("http://3.bp.blogspot.com/-FvCn7h7BT7o/V9rLr2ARXXI/AAAAAAAA7qk/ztdrXTftKrE2Q51pYlRQb33egjkCjrMOQCHM/s1600/34-fictional-places-we-wish-we-could-visit.jpg");
+    background-size:100%;
+    text-align:center;
+    color:white;
+}
+.wrapper{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    margin-left:20px;
+}
+.wrapper2{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    margin-left:20px;
+}
+.main-img{
+    border-radius:10px;
+    margin:55px;
+    width:750px;
+}
+.main-btn{
+    background-color:#f22eba;
+    border-radius:10px;
+    margin:auto;
+    width:200px;
+    height:50px;
+}
+.main1{
+    display:none;
+    background-image:url("http://i.imgur.com/DumZ0PG.png");
+    background-size:200%;
+    border-radius:20px;
+    width:500px;
+    margin:65px;
+    padding:10px 10px 10px 10px;
+}
+.bug{
+    width:300px;
+    height:200px;
+}
+.btn1{
+    background-color:#666ce8;
+    border-radius:10px;
+    margin:20px;
+    width:200px;
+    height:50px;
+}
+.main2{
+    background-image:url("http://i.imgur.com/DumZ0PG.png");
+    background-size:200%;
+    border-radius:20px;
+    padding:10px 10px 20px 10px;
+    margin:65px;
+    display:none;
+    width:500px;
+}
+.btn2{
+    background-color:#666ce8;
+    border-radius:10px;
+    margin:20px;
+    width:200px;
+    height:50px;
+}
+.bug{
+    padding:10px;
+}
+.main3{
+    background-image:url("http://i.imgur.com/DumZ0PG.png");
+    border-radius:20px;
+    padding:10px 10px 20px 10px;
+    margin:65px;
+    display:none;
+    width:500px;
+    height:550px;
+}
+.btn3{
+    background-color:#666ce8;
+    border-radius:10px;
+    margin:50px;
+    width:200px;
+    height:50px;
+}
+.friend{
+    padding-top:10px;
+    width:350px;
+    height:260px;
+}
+.main4{
+    background-image:url("http://i.imgur.com/DumZ0PG.png");
+    padding:10px 10px 10px 10px;
+    margin:65px;
+    display:none;
+    border-radius:20px;
+    width:500px;
+}
+.money{
+    width:300px;
+    height:200px;
+    margin:20px;
+}
+.btn4{
+    background-color:#666ce8;
+    border-radius:10px;
+    margin:25px;
+    width:200px;
+    height:50px;
+}
+.spongebob{
+    background-image:url("http://i.imgur.com/DumZ0PG.png");
+    margin:65px;
+    padding: 10px 10px 30px 10px;
+    display:none;
+    border-radius:20px;
+    width:600px;
+    font-size:19px;
+    
+}
+.patrick{
+    background-image:url("http://i.imgur.com/DumZ0PG.png");
+    margin:65px;
+    padding: 10px 10px 30px 10px;
+    display:none;
+    border-radius:20px;
+    width:600px;
+    font-size:19px;
+}
+.squidward{
+    background-image:url("http://i.imgur.com/DumZ0PG.png");
+    margin:65px;
+    padding: 10px 10px 30px 10px;
+    display:none;
+    border-radius:20px;
+    width:600px;
+    font-size:19px;
+}
+.mrkrabs{
+    background-image:url("http://i.imgur.com/DumZ0PG.png");
+    margin:65px;
+    padding: 10px 10px 30px 10px;
+    display:none;
+    border-radius:20px;
+    width:600px;
+    font-size:19px;
+}
+.Error{
+    background-image:url("http://i.imgur.com/DumZ0PG.png");
+    margin:150px;
+    padding: 10px 10px 30px 10px;
+    display:none;
+    border-radius:20px;
+    width:600px;
+    font-size:19px;
+}
